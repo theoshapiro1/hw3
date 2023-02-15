@@ -1,0 +1,4 @@
+@charset "utf-8";
+
+song {display:block; border-bottom: 1px solid rgb(236, 35, 35)}
+title {display:block; text-transform: captialize; font-size: 30px; margin-bottom: 10px}
